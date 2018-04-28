@@ -1,5 +1,5 @@
 # Deep Convolutional GANs
-
+# Most of this was made from the Super Data Science team, but I mostly just made it compatible with CUDA and did a few other minor changes
 # Importing the libraries
 from __future__ import print_function
 print('WARNING! This will take about 10 minutes to load without output on first run. Do not exit!')
